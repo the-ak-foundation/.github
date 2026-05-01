@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/the-ak-foundation/ak-base-kit-stm32l151/discussions
+    about: For questions and general discussion, please use GitHub Discussions.
+  - name: Community group (Facebook)
+    url: https://www.facebook.com/groups/laptrinhvidieukhiennangcao
+    about: Join the AK Foundation Vietnamese community group.
+  - name: Blog / Documentation
+    url: https://epcb.vn/blogs/ak-embedded-software
+    about: Project blog and getting started guides.

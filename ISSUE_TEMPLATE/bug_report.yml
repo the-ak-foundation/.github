@@ -1,0 +1,74 @@
+name: Bug report
+description: Report a bug in firmware, HAL, or build toolchain
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. Please fill in as much detail as possible.
+
+  - type: dropdown
+    id: component
+    attributes:
+      label: Component
+      description: Which part of the codebase is affected?
+      options:
+        - Kernel (task / signal / timer)
+        - HAL (GPIO / UART / SPI / I2C)
+        - BSP / Board init
+        - Boot / Firmware upgrade
+        - Build system / Makefile
+        - ak-flash tool
+        - Documentation
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear description of what the bug is.
+      placeholder: "When I call timer_set() with TIMER_PERIODIC, the callback fires only once instead of repeating..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Initialize task with ...
+        2. Call timer_set(...)
+        3. Observe that ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      placeholder: The timer callback should fire every 1000 ms.
+    validations:
+      required: true
+
+  - type: input
+    id: hardware
+    attributes:
+      label: Hardware
+      placeholder: "AK Embedded Base Kit v3 (STM32L151C8T6)"
+    validations:
+      required: true
+
+  - type: input
+    id: toolchain
+    attributes:
+      label: Toolchain
+      placeholder: "gcc-arm-none-eabi 10.3.1, Ubuntu 22.04"
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Additional context
+      description: Logs, oscilloscope captures, or minimal code snippet that reproduces the issue.
