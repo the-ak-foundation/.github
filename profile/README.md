@@ -1,4 +1,5 @@
 <div align="center">
+  <img width="4701" height="796" alt="AK cover - linkedin-company-01" src="https://github.com/user-attachments/assets/64aee9de-a127-4897-b1e4-76d75fba26ba" />
   <h2>AK Foundation</h2>
   <p><strong>Embedded Software Products. A nonprofit organization advancing embedded systems in Vietnam.</strong></p>
   <p>
