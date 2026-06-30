@@ -1,9 +1,3 @@
-<div align="center">
-
-![Repo Traffic](https://komarev.com/ghpvc/?username=the-ak-foundation-dotgithub&label=Repo+Traffic&color=blue&style=flat-square)
-
-</div>
-
 # AK Foundation — Organization defaults
 
 This repository contains files that apply to **every repository** in the
