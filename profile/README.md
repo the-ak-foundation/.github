@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="4701" height="796" alt="AK cover - linkedin-company-01" src="https://github.com/user-attachments/assets/64aee9de-a127-4897-b1e4-76d75fba26ba" />
+[![Hits](https://hits.sh/github.com/ak-foundation.svg?label=ORGANIZATION%20VIEWS&color=0e75b6&style=for-the-badge)](https://hits.sh/github.com/ak-foundation/)
 </div>
 
 ---
