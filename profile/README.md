@@ -1,5 +1,5 @@
 <div align="center">
-[![Hits](https://hits.sh/github.com/ak-foundation.svg?label=ORGANIZATION%20VIEWS&color=0e75b6&style=for-the-badge)](https://hits.sh/github.com/ak-foundation/)
+![Views](https://komarev.com/ghpvc/?username=ak-foundation&label=ORGANIZATION+VIEWS&color=blue&style=flat-square)
 </div>
 
 ---
