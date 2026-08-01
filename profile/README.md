@@ -12,5 +12,5 @@
 
 ## Contributing
 
-We welcome contributions of all kinds — bug fixes, new HAL drivers, examples, and documentation.  
+We welcome contributions of all kinds - bug fixes, new HAL drivers, examples, and documentation.  
 Please read [CONTRIBUTING.md](https://github.com/the-ak-foundation/.github/blob/main/CONTRIBUTING.md) before opening a pull request.
