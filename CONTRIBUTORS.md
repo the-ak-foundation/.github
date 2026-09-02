@@ -9,4 +9,3 @@ To be added or updated, open a pull request against this file.
 - @snoopy3921 - akos, akos-docs
 - @QuocBuu - archery-game
 - @Mab-Nig - akos
-- @giahuy-ftel - akos
