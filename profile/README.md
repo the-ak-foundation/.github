@@ -14,3 +14,7 @@
 
 We welcome contributions of all kinds - bug fixes, new HAL drivers, examples, and documentation.  
 Please read [CONTRIBUTING.md](https://github.com/the-ak-foundation/.github/blob/main/CONTRIBUTING.md) before opening a pull request.
+
+## Contributors
+
+People who have contributed to AK Foundation are listed in [CONTRIBUTORS.md](https://github.com/the-ak-foundation/.github/blob/main/CONTRIBUTORS.md).
