@@ -1,7 +1,7 @@
 # Contributors
 
-People who have contributed code, documentation, or examples to the AK
-Foundation. To be added or updated, open a pull request against this file.
+Contributors to AK Foundation repositories. To add or update your entry,
+open a pull request.
 
 - @caotrongphuoc - mcu-bare-metal (bare-metal ARM Cortex-M programming course, from boot process to a portable HAL on STM32L1)
 - @ZackHoang - embedded-training-program (sample GitHub, LinkedIn, and LeetCode profiles for learners)
