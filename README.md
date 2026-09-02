@@ -19,6 +19,13 @@ its own version.
 
 ---
 
+## Contributors
+
+[CONTRIBUTORS.md](CONTRIBUTORS.md) lists individual contributors across
+AK Foundation repositories.
+
+---
+
 ## Coding style (org-wide)
 
 | File | Purpose |
