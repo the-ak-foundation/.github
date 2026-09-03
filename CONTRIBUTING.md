@@ -86,8 +86,8 @@ We follow a simplified [Conventional Commits](https://www.conventionalcommits.or
 [optional: Fixes #<issue>]
 ```
 
-Types: `feat`, `fix`, `docs`, `refactor`, `test`, `chore`  
-Scopes: `kernel`, `hal`, `bsp`, `boot`, `examples`, `tools`
+Types: feat, fix, docs, refactor, test, chore  
+Scopes: kernel, hal, bsp, boot, examples, tools
 
 ## Getting help
 
