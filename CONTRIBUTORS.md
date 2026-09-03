@@ -24,7 +24,7 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
       <td>
         <strong>Embedded Blogger</strong><br>
-        Author of technical articles about embedded software and embedded systems.
+        RKOS Creator and Author of In-Depth Technical Articles on Embedded Software and Embedded Systems.
       </td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
       <td>
         <strong>akos, akos-docs</strong><br>
-        Kernel work on the RTOS and source of the AKOS documentation site.
+        OKOS Creator - Kernel work on the RTOS and source of the AKOS documentation site.
       </td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
       <td>
         <strong>archery-game</strong><br>
-        Arcade game on the AK Base Kit using event-driven programming.
+        Editor of the algorithm training program and Arcade game on the AK Base Kit using event-driven programming.
       </td>
     </tr>
     <tr>
@@ -128,7 +128,7 @@ Thank you to everyone who has contributed to AK Foundation.
       <td>
         <strong>mcu-bare-metal</strong><br>
         Bare-metal ARM Cortex-M programming course, from boot process
-        to a portable HAL on STM32L1.
+        to a portable HAL on MCU Target.
       </td>
     </tr>
   </tbody>
