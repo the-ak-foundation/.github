@@ -46,7 +46,7 @@ Thank you to everyone who has contributed to AK Foundation.
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/v%C3%A2n-nguy%E1%BB%85n-th%E1%BB%8B-h%E1%BB%93ng-bb478526a/">
+        <a href="https://www.linkedin.com/in/hongvan966219/">
           <img
             src="profile/contributors/nguyen-thi-hong-van-industrial-designer.jpg"
             width="80"
