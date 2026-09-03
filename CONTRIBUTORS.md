@@ -46,20 +46,36 @@ Thank you to everyone who has contributed to AK Foundation.
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/thanhbinh89">
+        <a href="https://www.linkedin.com/in/v%C3%A2n-nguy%E1%BB%85n-th%E1%BB%8B-h%E1%BB%93ng-bb478526a/">
           <img
-            src="https://github.com/thanhbinh89.png?size=100"
+            src="profile/contributors/nguyen_thi_hong_van.jpg"
             width="80"
-            alt="thanhbinh89"
+            height="80"
+            alt="Nguyen Thi Hong Van"
           >
           <br>
-          <strong>@thanhbinh89</strong>
+          <strong>@Nguyen Thi Hong Van</strong>
         </a>
       </td>
       <td>
-        <strong><a href="https://github.com/the-ak-foundation/mcp-docs-server">mcp-docs-server</a></strong><br>
-        MCP server that serves AK Active Kernel documentation
-        to AI coding assistants.
+        Industrial and Graphic Designer for AK Foundation products.
+      </td>
+    </tr>
+   <tr>
+      <td align="center">
+        <a href="https://github.com/QuocBuu">
+          <img
+            src="https://github.com/QuocBuu.png?size=100"
+            width="80"
+            alt="QuocBuu"
+          >
+          <br>
+          <strong>@QuocBuu</strong>
+        </a>
+      </td>
+      <td>
+        <strong><a href="https://github.com/the-ak-foundation/archery-game">archery-game</a></strong><br>
+        Editor of the algorithm training program and Arcade game on the AK Base Kit using event-driven programming.
       </td>
     </tr>
     <tr>
@@ -81,36 +97,38 @@ Thank you to everyone who has contributed to AK Foundation.
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/QuocBuu">
+        <a href="https://github.com/caotrongphuoc">
           <img
-            src="https://github.com/QuocBuu.png?size=100"
+            src="https://github.com/caotrongphuoc.png?size=100"
             width="80"
-            alt="QuocBuu"
+            alt="caotrongphuoc"
           >
           <br>
-          <strong>@QuocBuu</strong>
+          <strong>@caotrongphuoc</strong>
         </a>
       </td>
       <td>
-        <strong><a href="https://github.com/the-ak-foundation/archery-game">archery-game</a></strong><br>
-        Editor of the algorithm training program and Arcade game on the AK Base Kit using event-driven programming.
+        <strong><a href="https://github.com/the-ak-foundation/mcu-bare-metal">mcu-bare-metal</a></strong><br>
+        Bare-metal ARM Cortex-M programming course, from boot process
+        to a portable HAL on MCU Target.
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/v%C3%A2n-nguy%E1%BB%85n-th%E1%BB%8B-h%E1%BB%93ng-bb478526a/">
+        <a href="https://github.com/thanhbinh89">
           <img
-            src="profile/contributors/nguyen_thi_hong_van.jpg"
+            src="https://github.com/thanhbinh89.png?size=100"
             width="80"
-            height="80"
-            alt="Nguyen Thi Hong Van"
+            alt="thanhbinh89"
           >
           <br>
-          <strong>@Nguyen Thi Hong Van</strong>
+          <strong>@thanhbinh89</strong>
         </a>
       </td>
       <td>
-        Industrial and Graphic Designer for AK Foundation products.
+        <strong><a href="https://github.com/the-ak-foundation/mcp-docs-server">mcp-docs-server</a></strong><br>
+        MCP server that serves AK Active Kernel documentation
+        to AI coding assistants.
       </td>
     </tr>
     <tr>
@@ -145,24 +163,6 @@ Thank you to everyone who has contributed to AK Foundation.
       <td>
         <strong><a href="https://github.com/the-ak-foundation/akos">akos</a></strong><br>
         Kernel work on the preemptive priority-based RTOS.
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/caotrongphuoc">
-          <img
-            src="https://github.com/caotrongphuoc.png?size=100"
-            width="80"
-            alt="caotrongphuoc"
-          >
-          <br>
-          <strong>@caotrongphuoc</strong>
-        </a>
-      </td>
-      <td>
-        <strong><a href="https://github.com/the-ak-foundation/mcu-bare-metal">mcu-bare-metal</a></strong><br>
-        Bare-metal ARM Cortex-M programming course, from boot process
-        to a portable HAL on MCU Target.
       </td>
     </tr>
   </tbody>
