@@ -59,7 +59,7 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
       <td>
         <strong>akos, akos-docs</strong><br>
-        OKOS Creator - Kernel work on the RTOS and source of the AKOS documentation site.
+        AKOS Creator - Kernel work on the RTOS and source of the AKOS documentation site.
       </td>
     </tr>
     <tr>
