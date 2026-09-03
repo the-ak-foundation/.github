@@ -37,7 +37,7 @@ Thank you to everyone who has contributed to AK Foundation.
             alt="Ho Hoang Anh"
           >
           <br>
-          <strong>Ho Hoang Anh</strong>
+          <strong>@Ho Hoang Anh</strong>
         </a>
       </td>
       <td>
@@ -106,7 +106,7 @@ Thank you to everyone who has contributed to AK Foundation.
             alt="Nguyen Thi Hong Van"
           >
           <br>
-          <strong>Nguyen Thi Hong Van</strong>
+          <strong>@Nguyen Thi Hong Van</strong>
         </a>
       </td>
       <td>
