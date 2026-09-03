@@ -4,7 +4,7 @@ Thank you for your interest in contributing! This document covers everything you
 
 ## Before you start
 
-- Check the [open issues](https://github.com/the-ak-foundation/ak-base-kit-stm32l151/issues) — your idea might already be tracked.
+- Check the [open issues](https://github.com/the-ak-foundation/ak-base-kit-stm32l151/issues) - your idea might already be tracked.
 - For **large changes** (new features, API changes, new hardware ports), open an issue first and discuss before writing code.
 - For **small fixes** (typos, obvious bugs, documentation), go ahead and open a pull request directly.
 
@@ -66,13 +66,13 @@ ak_flash /dev/ttyUSB0 ak-base-kit-stm32l151-application.bin 0x08003000
 
 | Type | Welcome? |
 |------|----------|
-| Bug fixes | ✅ Always |
-| Documentation improvements | ✅ Always |
-| New hardware examples | ✅ Welcome |
-| New HAL drivers (GPIO, UART, SPI…) | ✅ Welcome |
-| New board support packages | ✅ Discuss first |
-| Kernel architecture changes | ⚠️ Open issue first |
-| Dependency additions | ⚠️ Discuss first |
+| Bug fixes | Always |
+| Documentation improvements | Always |
+| New hardware examples | Welcome |
+| New HAL drivers (GPIO, UART, SPI…) | Welcome |
+| New board support packages | Discuss first |
+| Kernel architecture changes | Open issue first |
+| Dependency additions | Discuss first |
 
 ## Commit message format
 
