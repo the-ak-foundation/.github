@@ -2,7 +2,7 @@
 
 This document defines the coding style for all C and C++ source files in the
 AKOS project. Following a consistent style makes the codebase easier to read,
-review, and maintain — especially for contributors working across different
+review, and maintain - especially for contributors working across different
 modules.
 
 Style is enforced automatically by `.clang-format`. When in doubt, run the
@@ -35,7 +35,7 @@ ret = akos_task_post(TASK_SENSOR_ID,
                      SIG_DATA_READY);
 
 /* Bad */
-ret = akos_task_post(TASK_SENSOR_ID, SIG_DATA_READY); /* 85 chars — too long */
+ret = akos_task_post(TASK_SENSOR_ID, SIG_DATA_READY); /* 85 chars - too long */
 ```
 
 ---
@@ -50,7 +50,7 @@ All lowercase, words separated by underscores. The module prefix groups
 functions by the subsystem they belong to.
 
 ```c
-/* Kernel public API — prefix: akos_ */
+/* Kernel public API - prefix: akos_ */
 void     akos_init(void);
 void     akos_start(void);
 int      akos_task_post(ak_task_id_t id, ak_signal_t sig);
@@ -58,31 +58,31 @@ void     akos_timer_set(ak_task_id_t id, ak_signal_t sig,
                         uint32_t ms, ak_timer_type_t type);
 void     akos_timer_cancel(ak_task_id_t id, ak_signal_t sig);
 
-/* HAL layer — prefix: hal_<peripheral>_ */
+/* HAL layer - prefix: hal_<peripheral>_ */
 void     hal_gpio_set_output(uint32_t pin);
 void     hal_gpio_toggle(uint32_t pin);
 int      hal_uart_write(uint8_t *buf, size_t len);
 uint8_t  hal_uart_read_byte(void);
 
-/* BSP layer — prefix: bsp_ */
+/* BSP layer - prefix: bsp_ */
 void     bsp_board_init(void);
 uint32_t bsp_get_tick_ms(void);
 
-/* Static (file-scope) helpers — no module prefix */
+/* Static (file-scope) helpers - no module prefix */
 static void reset_task_queue(void);
 static int  find_free_timer_slot(void);
 ```
 
 ### 3.2 Types and structs
 
-Pattern: `module_noun_t` — always lowercase, always with `_t` suffix.
+Pattern: `module_noun_t` - always lowercase, always with `_t` suffix.
 
 ```c
 /* Typedefs */
 typedef uint8_t   ak_task_id_t;
 typedef uint16_t  ak_signal_t;
 
-/* Structs — define tag and typedef separately */
+/* Structs - define tag and typedef separately */
 struct ak_task {
     ak_task_id_t      id;
     ak_task_handler_t handler;
@@ -132,10 +132,10 @@ int retry_count;
 /* Bad */
 uint32_t t;      /* not descriptive */
 int rC;          /* mixed case */
-uint8_t ucData;  /* Hungarian notation — not used in AKOS */
+uint8_t ucData;  /* Hungarian notation - not used in AKOS */
 ```
 
-Global variables: prefix with `g_`. Use sparingly — most state belongs inside
+Global variables: prefix with `g_`. Use sparingly - most state belongs inside
 a module's `.c` file as `static`.
 
 ```c
@@ -165,7 +165,7 @@ Opening brace on the **same line** as the statement (K&R style).
 Exception: function definitions place the opening brace on a new line.
 
 ```c
-/* Control flow — brace on same line */
+/* Control flow - brace on same line */
 if (task_id >= AKOS_CONFIG_MAX_TASKS) {
     return AKOS_ERR;
 }
@@ -185,7 +185,7 @@ default:
     break;
 }
 
-/* Function definition — brace on new line */
+/* Function definition - brace on new line */
 int akos_task_post(ak_task_id_t dest_id, ak_signal_t sig)
 {
     if (dest_id >= AKOS_CONFIG_MAX_TASKS) {
@@ -220,9 +220,9 @@ Every `.c` and `.h` file starts with:
 ```c
 /**
  * @file    ak_task.c
- * @brief   AKOS task scheduler — core implementation.
+ * @brief   AKOS task scheduler - core implementation.
  *
- * @copyright  AK Foundation — Apache License 2.0
+ * @copyright  AK Foundation - Apache License 2.0
  */
 ```
 
@@ -255,20 +255,20 @@ static ak_task_t *find_next_task(void);
 Use `/* */` for C files. Use `//` only in C++ files.
 
 ```c
-/* C file — use block comments */
+/* C file - use block comments */
 uint32_t mask = (1u << bit_pos);   /* compute the bitmask */
 
-// C++ file — line comments are fine
+// C++ file - line comments are fine
 auto task = find_task(id);  // may return nullptr
 ```
 
 Avoid obvious comments:
 
 ```c
-/* Bad — states what the code already says */
+/* Bad - states what the code already says */
 i++;   /* increment i */
 
-/* Good — explains WHY */
+/* Good - explains WHY */
 i++;   /* skip the null terminator byte */
 ```
 
@@ -395,10 +395,10 @@ Use `bool` (from `<stdbool.h>`) for boolean values. Never use `int` as bool.
 
 ## 10. Portability
 
-- No use of `long` or `short` — their sizes are implementation-defined.
+- No use of `long` or `short` - their sizes are implementation-defined.
 - No pointer-to-integer casts unless explicitly porting assembly glue.
 - No uninitialized variables.
-- No variable-length arrays (VLA) — fixed-size or heap only.
+- No variable-length arrays (VLA) - fixed-size or heap only.
 - Interrupt-safe sections must use the port's critical section macros:
 
 ```c
@@ -416,7 +416,7 @@ Follow Conventional Commits format:
 ```
 <type>(<scope>): <short description in imperative mood>
 
-[optional body — explain WHY, not what]
+[optional body - explain WHY, not what]
 
 [optional: Fixes #<issue>]
 ```
@@ -434,7 +434,7 @@ chore(ci): upgrade arm-none-eabi to 13.x
 
 Rules:
 - Subject line ≤ 72 characters
-- Use imperative mood: "add", "fix", "remove" — not "added", "fixing"
+- Use imperative mood: "add", "fix", "remove" - not "added", "fixing"
 - Do not end subject line with a period
 
 ---
