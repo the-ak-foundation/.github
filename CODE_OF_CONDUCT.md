@@ -2,7 +2,7 @@
 
 ## Our commitment
 
-AK Foundation is a learning-oriented community. We are committed to keeping it a welcoming space for everyone — regardless of experience level, background, or nationality.
+AK Foundation is a learning-oriented community. We are committed to keeping it a welcoming space for everyone - regardless of experience level, background, or nationality.
 
 ## Expected behavior
 
@@ -10,7 +10,7 @@ AK Foundation is a learning-oriented community. We are committed to keeping it a
 - Welcome newcomers and help those who are learning.
 - Give credit when building on others' work.
 - Focus feedback on code and ideas, not on people.
-- Ask questions — there are no stupid questions in embedded systems.
+- Ask questions - there are no stupid questions in embedded systems.
 
 ## Unacceptable behavior
 
