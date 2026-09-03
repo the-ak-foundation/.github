@@ -1,11 +1,135 @@
 # Contributors
 
-Contributors to AK Foundation repositories. To add or update your entry,
-open a pull request.
+Thank you to everyone who has contributed to AK Foundation.
 
-- @caotrongphuoc - mcu-bare-metal (bare-metal ARM Cortex-M programming course, from boot process to a portable HAL on STM32L1)
-- @ZackHoang - embedded-training-program (sample GitHub, LinkedIn, and LeetCode profiles for learners)
-- @thanhbinh89 - mcp-docs-server (MCP server that serves AK Active Kernel documentation to AI coding assistants)
-- @snoopy3921 - akos (kernel work on the preemptive priority-based RTOS), akos-docs (source of the AKOS documentation site)
-- @QuocBuu - archery-game (arcade game on the AK Base Kit, event-driven programming)
-- @Mab-Nig - akos (kernel work on the preemptive priority-based RTOS)
+<table>
+  <thead>
+    <tr>
+      <th>Contributor</th>
+      <th>Contributions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Gao-Den">
+          <img
+            src="https://github.com/Gao-Den.png?size=100"
+            width="80"
+            alt="Gao-Den"
+          >
+          <br>
+          <strong>@Gao-Den</strong>
+        </a>
+      </td>
+      <td>
+        <strong>Embedded Blogger</strong><br>
+        Author of technical articles about embedded software and embedded systems.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/thanhbinh89">
+          <img
+            src="https://github.com/thanhbinh89.png?size=100"
+            width="80"
+            alt="thanhbinh89"
+          >
+          <br>
+          <strong>@thanhbinh89</strong>
+        </a>
+      </td>
+      <td>
+        <strong>mcp-docs-server</strong><br>
+        MCP server that serves AK Active Kernel documentation
+        to AI coding assistants.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/snoopy3921">
+          <img
+            src="https://github.com/snoopy3921.png?size=100"
+            width="80"
+            alt="snoopy3921"
+          >
+          <br>
+          <strong>@snoopy3921</strong>
+        </a>
+      </td>
+      <td>
+        <strong>akos, akos-docs</strong><br>
+        Kernel work on the RTOS and source of the AKOS documentation site.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/QuocBuu">
+          <img
+            src="https://github.com/QuocBuu.png?size=100"
+            width="80"
+            alt="QuocBuu"
+          >
+          <br>
+          <strong>@QuocBuu</strong>
+        </a>
+      </td>
+      <td>
+        <strong>archery-game</strong><br>
+        Arcade game on the AK Base Kit using event-driven programming.
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/ZackHoang">
+          <img
+            src="https://github.com/ZackHoang.png?size=100"
+            width="80"
+            alt="ZackHoang"
+          >
+          <br>
+          <strong>@ZackHoang</strong>
+        </a>
+      </td>
+      <td>
+        <strong>embedded-training-program</strong><br>
+        Sample GitHub, LinkedIn, and LeetCode profiles for learners.
+      </td>
+    </tr>
+      <td align="center">
+        <a href="https://github.com/Mab-Nig">
+          <img
+            src="https://github.com/Mab-Nig.png?size=100"
+            width="80"
+            alt="Mab-Nig"
+          >
+          <br>
+          <strong>@Mab-Nig</strong>
+        </a>
+      </td>
+      <td>
+        <strong>akos</strong><br>
+        Kernel work on the preemptive priority-based RTOS.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/caotrongphuoc">
+          <img
+            src="https://github.com/caotrongphuoc.png?size=100"
+            width="80"
+            alt="caotrongphuoc"
+          >
+          <br>
+          <strong>@caotrongphuoc</strong>
+        </a>
+      </td>
+      <td>
+        <strong>mcu-bare-metal</strong><br>
+        Bare-metal ARM Cortex-M programming course, from boot process
+        to a portable HAL on STM32L1.
+      </td>
+    </tr>
+  </tbody>
+</table>
