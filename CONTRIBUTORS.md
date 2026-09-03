@@ -41,7 +41,7 @@ Thank you to everyone who has contributed to AK Foundation.
         </a>
       </td>
       <td>
-        PCB Designer.
+        PCB Designer responsible for schematic design, PCB layout, component placement, routing, hardware validation, and manufacturing support for AK Foundation products.
       </td>
     </tr>
     <tr>
