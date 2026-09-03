@@ -1,4 +1,4 @@
-# AK Foundation — Organization defaults
+# AK Foundation - Organization defaults
 
 This repository contains files that apply to **every repository** in the
 [AK Foundation](https://github.com/the-ak-foundation) organization.
@@ -30,9 +30,9 @@ AK Foundation repositories.
 
 | File | Purpose |
 |------|---------|
-| [CODING_STYLE.md](CODING_STYLE.md) | Full style guide — naming, braces, comments, commits |
+| [CODING_STYLE.md](CODING_STYLE.md) | Full style guide - naming, braces, comments, commits |
 | [.clang-format](.clang-format) | Machine-readable format rules (copy to each repo root) |
-| [tools/pre-commit](tools/pre-commit) | Git hook — rejects commits with style violations |
+| [tools/pre-commit](tools/pre-commit) | Git hook - rejects commits with style violations |
 
 ### Applying the style to a new repo
 
