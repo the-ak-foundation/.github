@@ -24,7 +24,7 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
       <td>
         <strong><a href="https://epcb.vn/blogs/ak-embedded-software">Embedded Blogger</a></strong><br>
-        <a href="[[https://github.com/the-ak-foundation/rkos](https://github.com/Gao-Den/rkos)]"><strong>RKOS</strong></a> Creator and Author of In-Depth Technical Articles on Embedded Software and Embedded Systems.
+        <a href="https://github.com/Gao-Den/rkos"><strong>RKOS</strong></a> Creator and Author of In-Depth Technical Articles on Embedded Software and Embedded Systems.
       </td>
     </tr>
     <tr>
