@@ -31,7 +31,7 @@ Thank you to everyone who has contributed to AK Foundation.
       <td align="center">
         <a href="https://www.linkedin.com/in/ho-hoang-anh-515143157/">
           <img
-            src="profile/contributors/ho_hoang_anh.png"
+            src="profile/contributors/ho_hoang_anh.jpg"
             width="80"
             height="80"
             alt="Ho Hoang Anh"
@@ -100,7 +100,7 @@ Thank you to everyone who has contributed to AK Foundation.
       <td align="center">
         <a href="https://www.linkedin.com/in/v%C3%A2n-nguy%E1%BB%85n-th%E1%BB%8B-h%E1%BB%93ng-bb478526a/">
           <img
-            src="profile/contributors/nguyen_thi_hong_van.png"
+            src="profile/contributors/nguyen_thi_hong_van.jpg"
             width="80"
             height="80"
             alt="Nguyen Thi Hong Van"
