@@ -1,5 +1,5 @@
 #!/bin/sh
-# AKOS pre-commit hook — rejects commits with clang-format violations.
+# AKOS pre-commit hook - rejects commits with clang-format violations.
 #
 # Install:
 #   cp tools/pre-commit .git/hooks/pre-commit
