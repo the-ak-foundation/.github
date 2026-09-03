@@ -29,6 +29,23 @@ Thank you to everyone who has contributed to AK Foundation.
     </tr>
     <tr>
       <td align="center">
+        <a href="https://www.linkedin.com/in/ho-hoang-anh-515143157/">
+          <img
+            src="profile/contributors/ho_hoang_anh.png"
+            width="80"
+            height="80"
+            alt="Ho Hoang Anh"
+          >
+          <br>
+          <strong>Ho Hoang Anh</strong>
+        </a>
+      </td>
+      <td>
+        PCB Designer.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/thanhbinh89">
           <img
             src="https://github.com/thanhbinh89.png?size=100"
@@ -80,6 +97,22 @@ Thank you to everyone who has contributed to AK Foundation.
       </td>
     </tr>
     <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/v%C3%A2n-nguy%E1%BB%85n-th%E1%BB%8B-h%E1%BB%93ng-bb478526a/">
+          <img
+            src="profile/contributors/nguyen_thi_hong_van.png"
+            width="80"
+            height="80"
+            alt="Nguyen Thi Hong Van"
+          >
+          <br>
+          <strong>Nguyen Thi Hong Van</strong>
+        </a>
+      </td>
+      <td>
+        Industrial and Graphic Designer for AK Foundation products.
+      </td>
+    </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/ZackHoang">
@@ -97,6 +130,7 @@ Thank you to everyone who has contributed to AK Foundation.
         Sample GitHub, LinkedIn, and LeetCode profiles for learners.
       </td>
     </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Mab-Nig">
           <img
