@@ -58,11 +58,8 @@ Thank you to everyone who has contributed to AK Foundation.
         </a>
       </td>
       <td>
-<<<<<<< HEAD
         <strong>akos, akos-docs</strong><br>
-=======
         <strong><a href="https://github.com/the-ak-foundation/akos">akos</a> <a href="https://github.com/the-ak-foundation/akos-docs">akos-docs</a></strong><br>
->>>>>>> 53cbd7a ([ADD] links to contributor's repo)
         AKOS Creator - Kernel work on the RTOS and source of the AKOS documentation site.
       </td>
     </tr>
