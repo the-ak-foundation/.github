@@ -1,3 +1,9 @@
+<div align="center">
+
+![Repo Traffic](https://komarev.com/ghpvc/?username=.github&label=Repo+Traffic&color=blue&style=flat-square)
+
+</div>
+
 # Contributors
 
 Thank you to everyone who has contributed to AK Foundation.
